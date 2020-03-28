@@ -59,5 +59,37 @@ gloss over: whitewash.
 absurd: (of an idea or suggestion) wildly unreasonable, illogical, or inappropriate.
 basis: the underlying support or foundation for an idea, argument, or process.
 admit: confess to be true or to be the case, typically with reluctance.
-
-
+nonetheless: In spite of that; nevertheless.
+contradiction: A combination of statements, ideas, or features which are opposed to one another.
+monotonic: (of a function or quantity) varying in such a way that it either never decreases or never increases.
+assess: Evaluate or estimate the nature, ability, or quality of.
+take into account: 考虑，体谅，斟酌
+shepherd: A person who tends and rears sheep.
+delight: Please (someone) greatly.
+spectator: A person who watches at a show, game, or other event.
+meteorological: Relating to the branch of science concerned with the processes and phenomena of the atmosphere, especially as a means of forecasting the weather.
+perference: A greater liking for one alternative over another or others.
+merit: The quality of being particularly good or worthy, especially so as to deserve praise or reward.
+legitimate: Conforming to the law or to rules.
+attest: Provide or serve as clear evidence of.
+persuasive: Good at persuading someone to do or believe something through reasoning or the use of temptation.
+extensive: Covering or affecting a large area.
+sole: One and only.
+neglect: Fail to care for properly.
+approximation: A value or quantity that is nearly but not exactly correct.
+compilation: The action or process of producing something, especially a list or book, by assembling information collected from other sources.
+downright: (of something bad or unpleasant) utter; complete (used for emphasis)
+optimization: The action of making the best or most effective use of a situation or resource.
+outweigh: Be heavier, greater, or more significant than.
+religious: Relating to or believing in a religion.
+conspire: Make secret plans jointly to commit an unlawful or harmful act.
+finitary predicament: 有限性的困境
+incur: Become subject to (something unwelcome or unpleasant) as a result of one's own behaviour or actions.
+correspond: Have a close similarity; match or agree almost exactly.
+appeal: Make a serious, urgent, or heartfelt request.
+spceptical: Not easily convinced; having doubts or reservations.
+sweep: Clean (an area) by brushing away dirt or litter.
+fiat: A formal authorization or proposition; a decree.
+chord: A group of (typically three or more) notes sounded together, as a basis of harmony.
+cope: (of a person) deal effectively with something difficult.
+confusion: Uncertainty about what is happening, intended, or required.
