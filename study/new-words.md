@@ -95,3 +95,9 @@ fiat: A formal authorization or proposition; a decree.
 chord: A group of (typically three or more) notes sounded together, as a basis of harmony.
 cope: (of a person) deal effectively with something difficult.
 confusion: Uncertainty about what is happening, intended, or required.
+exhibit: Publicly display (a work of art or item of interest) in an art gallery or museum or at a trade fair.
+damper: A person or thing that has a subduing or inhibiting effect.
+put off: An off-putting or unpleasant quality or feature.
+intrinsic: Belonging naturally; essential.
+instantaneously: Instantly; at once.
+passage: The action or process of moving through or past somewhere on the way from one place to another.
