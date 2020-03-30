@@ -22,6 +22,8 @@ expose: make (something) visible, typically by uncovering it.
 testament: a person's will, especially the part relating to personal property.
 dissertation: a long essay on a particular subject, especially one written as a requirement for the Doctor of Philosophy degree.
 faculty: an inherent mental or physical power.
+emulate: Match or surpass (a person or achievement), typically by imitation.
+spectrum: A band of colours, as seen in a rainbow, produced by separation of the components of light by their different degrees of refraction according to wavelength.
 controversy: disagreement, typically when prolonged, public, and heated.
 axiomatisation: 公理化
 surface: rise or come up to the surface of the water or the ground.
