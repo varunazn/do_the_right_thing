@@ -101,3 +101,22 @@ put off: An off-putting or unpleasant quality or feature.
 intrinsic: Belonging naturally; essential.
 instantaneously: Instantly; at once.
 passage: The action or process of moving through or past somewhere on the way from one place to another.
+substantive: Having a firm basis in reality and so important, meaningful, or considerable.
+nonetheless: In spite of that; nevertheless.
+optimal: Best or most favourable; optimum.
+efficient: (of a system or machine) achieving maximum productivity with minimum wasted effort or expense.
+postulate: Suggest or assume the existence, fact, or truth of (something) as a basis for reasoning, discussion, or belief.
+discern: Recognize or find out.
+acquisition: An asset or object bought or obtained, typically by a library or museum.
+heuristic: Enabling a person to discover or learn something for themselves.
+symposium: A conference or meeting to discuss a particular subject.
+inferential: Characterized by or involving conclusions reached on the basis of evidence and reasoning.
+introspection: The examination or observation of one's own mental and emotional processes.
+purport: Appear to be or do something, especially falsely.
+impose: Put (a restriction) in place.
+pressure: Continuous physical force exerted on or against an object by something in contact with it.
+competent: Having the necessary ability, knowledge, or skill to do something successfully.
+gradually: In a gradual way; slowly; by degrees.
+repertoire: A stock of plays, dances, or items that a company or a performer knows or is prepared to perform.
+trap: A device or enclosure designed to catch and retain animals, typically by allowing entry but not exit or by catching hold of a part of the body.
+checkmate: A position in which a player's king is directly attacked by an opponent's piece or pawn and has no possible move to escape the check. The attacking player thus wins the game.
